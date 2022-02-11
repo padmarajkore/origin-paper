@@ -1,0 +1,34 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background: url('blog.jpg');
+	background-size: 1500px 700px;
+	background-repeat: no-repeat;
+}
+h1
+{
+	font-size: 30px;
+	font-family: Times New Roman;
+	color: #FFFFE0;
+    padding-left: 450px;
+}
+h2
+{
+	font-size: 25px;
+    color: #E8E8E8;
+	font-family: Georgia;
+}
+p
+{
+	font-size: 20px;
+    color: #E6E8FA;
+	font-family: Georgia;
+}
+h3
+{
+	font-size: 20px;
+    color: #242526;
+	font-family: Lucida handwriting;
+	padding-left: 500px;
+}
